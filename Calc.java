@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class Calc{
 
      public static void main(String []args){
         add(5,7);
