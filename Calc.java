@@ -2,7 +2,8 @@ public class Calc{
 
      public static void main(String []args){
         add(5,7);
-            diff(3,6);
+        diff(3,6);
+        prod(3,4);
      }
      
      
