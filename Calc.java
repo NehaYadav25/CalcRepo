@@ -14,9 +14,6 @@ class Calc{
 
    }
       
-      public void div(int a,int b){
-      System.out.println("Quotient"+ (a/b));
-      System.out.println("Quotient"+ (a/b));
-
-   }
+      
+   
 }
